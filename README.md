@@ -8,7 +8,7 @@ Hi!👋 I'm Monika.
 
 ## Noteworthy projects
 
-- [libft](https://github.com/jelloster/libft/tree/main) : rewrite of C Standard library.
+- [libft](https://github.com/jelloster/libft/tree/main) : rewrite of the C Standard library (and more).
 
 ## Proficiencies
 
@@ -24,5 +24,6 @@ Hi!👋 I'm Monika.
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### Software
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
