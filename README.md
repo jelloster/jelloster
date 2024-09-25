@@ -2,7 +2,14 @@
 
 ## About me
 Hi!👋 I'm Monika.  
-I'm a programmer from Finland with a special interest in C.
+  
+- I'm a programmer from Finland with a special interest in C.
+- Currently studying at [Hive Helsinki](https://www.hive.fi/).
+- Contact me: [monsulit@gmail.com](mailto:monsulit@gmail.com)
+
+## Noteworthy projects
+
+- [libft](https://github.com/jelloster/libft/tree/main) : rewrite of C Standard library.
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
