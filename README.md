@@ -6,10 +6,6 @@ Hi!👋 I'm Monika.
 - Currently studying at [Hive Helsinki](https://www.hive.fi/).
 - Contact me: [monsulit@gmail.com](mailto:monsulit@gmail.com)
 
-## Noteworthy projects
-
-- [libft](https://github.com/jelloster/libft/tree/main) : rewrite of the C Standard library (and more).
-
 ## Proficiencies
 
 ### Languages
