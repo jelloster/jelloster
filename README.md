@@ -1,11 +1,20 @@
 # Monika Tuominen
-
 Hi!👋 I'm Monika.  
-  
-- I'm a programmer from Finland with a special interest in C.
-- Currently studying at [Hive Helsinki](https://www.hive.fi/).
-- Contact me: [monsulit@gmail.com](mailto:monsulit@gmail.com)
 
+# About me
+- 🧑‍💻 I'm a programmer from Finland.
+- 👾 I am especially passionate about modular coding, graphics, and software development.
+- 🎓 I graduated with honors as a Master of science from Aalto University.
+- 💻 Currently improving my programming at [Hive Helsinki](https://www.hive.fi/).
+
+# Contact
+- 📨[monsulit@gmail.com](mailto:monsulit@gmail.com)
+
+# Links
+- 🧑‍💼[LinkedIN](https://www.linkedin.com/in/monika-tuominen/)
+- 🎨[Art Portfolio](https://jelloster.artstation.com/)
+
+  
 ## Proficiencies
 
 ### Languages
