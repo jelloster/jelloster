@@ -3,7 +3,7 @@
 
 ☆ Currently a game developer in Sweden.
 
-☆ Graduated with honors as a Master of science from Aalto University. I attended also attended [Hive Helsinki](https://www.hive.fi/).
+☆ Graduated with honors as a Master of science from Aalto University. I also attended [Hive Helsinki](https://www.hive.fi/).
 
 
 # Contact
